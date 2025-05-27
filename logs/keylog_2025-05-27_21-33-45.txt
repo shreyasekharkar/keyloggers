@@ -1,0 +1,46 @@
+2025-05-27 21:34:08,510: Key pressed: h
+2025-05-27 21:34:08,739: Key pressed: j
+2025-05-27 21:34:08,931: Key pressed: j
+2025-05-27 21:34:09,091: Key pressed: d
+2025-05-27 21:34:09,210: Key pressed: k
+2025-05-27 21:34:09,315: Key pressed: v
+2025-05-27 21:34:09,368: Key pressed: n
+2025-05-27 21:34:09,446: Key pressed: d
+2025-05-27 21:34:09,460: Key pressed: i
+2025-05-27 21:34:09,592: Key pressed: v
+2025-05-27 21:34:09,677: Key pressed: n
+2025-05-27 21:34:09,798: Key pressed: i
+2025-05-27 21:34:09,893: Key pressed: f
+2025-05-27 21:34:09,975: Key pressed: s
+2025-05-27 21:34:10,146: Key pressed: v
+2025-05-27 21:34:10,147: Key pressed: j
+2025-05-27 21:34:10,381: Key pressed: s
+2025-05-27 21:34:10,427: Key pressed: i
+2025-05-27 21:34:10,443: Key pressed: f
+2025-05-27 21:34:10,507: Key pressed: d
+2025-05-27 21:34:10,613: Key pressed: j
+2025-05-27 21:34:10,617: Key pressed: v
+2025-05-27 21:34:10,838: Key pressed: f
+2025-05-27 21:34:11,007: Key pressed: v
+2025-05-27 21:34:11,215: Key pressed: f
+2025-05-27 21:34:11,500: Key pressed: f
+2025-05-27 21:34:11,563: Key pressed: v
+2025-05-27 21:34:11,793: Key pressed: s
+2025-05-27 21:34:11,849: Key pressed: d
+2025-05-27 21:34:11,965: Key pressed: v
+2025-05-27 21:34:45,090: Special key pressed: Key.ctrl_l
+2025-05-27 21:34:45,556: Key pressed: 
+2025-05-27 21:34:46,756: Special key pressed: Key.ctrl_l
+2025-05-27 21:34:47,262: Special key pressed: Key.ctrl_l
+2025-05-27 21:34:47,294: Special key pressed: Key.ctrl_l
+2025-05-27 21:34:47,297: Key pressed: 
+2025-05-27 21:34:50,047: Special key pressed: Key.ctrl_l
+2025-05-27 21:34:50,552: Special key pressed: Key.ctrl_l
+2025-05-27 21:34:50,584: Special key pressed: Key.ctrl_l
+2025-05-27 21:34:50,617: Key pressed: 
+2025-05-27 21:34:51,250: Special key pressed: Key.ctrl_l
+2025-05-27 21:34:51,558: Key pressed: 
+2025-05-27 21:34:52,138: Special key pressed: Key.ctrl_l
+2025-05-27 21:34:52,323: Key pressed: 
+2025-05-27 21:34:53,225: Special key pressed: Key.ctrl_l
+2025-05-27 21:34:53,445: Key pressed: 

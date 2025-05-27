@@ -1,0 +1,13 @@
+2025-05-27 21:35:25,396: Key pressed: s
+2025-05-27 21:35:25,546: Key pressed: h
+2025-05-27 21:35:25,779: Key pressed: r
+2025-05-27 21:35:25,928: Key pressed: e
+2025-05-27 21:35:26,118: Key pressed: u
+2025-05-27 21:35:26,385: Key pressed: a
+2025-05-27 21:35:26,524: Key pressed: s
+2025-05-27 21:35:28,164: Special key pressed: Key.enter
+2025-05-27 21:35:59,566: Special key pressed: Key.space
+2025-05-27 21:36:00,145: Key pressed: h
+2025-05-27 21:36:00,602: Key pressed: h
+2025-05-27 21:36:01,002: Key pressed: h
+2025-05-27 21:36:01,308: Key pressed: h
