@@ -12,9 +12,4 @@ This project is a **security-focused keylogger tool** that captures keystrokes f
 ## 🚀 How to Run
 
 ```bash
-pip install -r requirements.txt
-python keylogger.py
->>bash>>
->>bash>>
->>bash>>>
-key log 
+
